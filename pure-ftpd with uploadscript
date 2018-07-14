@@ -1,0 +1,12 @@
+https://github.com/praekelt/pureftp-completeuploadscript
+
+upload script example
+
+#!/usr/bin/env python
+def main():
+        f = open("uploadlog","w")
+        f.write("good!")
+        f.close()
+
+if __name__=="__main__":
+        main()
