@@ -1,3 +1,4 @@
 1. change zhubo's code to support parameters coming from modstore
 2. add support for result folder and tar.gz.
 3. modstore: add upload servlet and untar to folder.
+4. bring back menu regression and  prediction
